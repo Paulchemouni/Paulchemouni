@@ -11,6 +11,8 @@
 - 🌱 Je suis actuellement en train d'apprendre le Kotlin, le HTML et le CSS, la M.A.O., et plein d'autres trucs.<br/>
 Voilà 😁
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/Paulchemouni?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
 <!---
 Paulchemouni/Paulchemouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
