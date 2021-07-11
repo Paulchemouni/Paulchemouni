@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Paulchemouni.Paulchemouni&color=0000FF)
 - 👋 Hi, I’m @Paulchemouni
 - 🏫 I'm in 8th grade, in secondary school
 - 👀 I’m interested in programming, and even computing in general, cryptocurrencies and blockchain, and music, more specifically computer-assisted music.
