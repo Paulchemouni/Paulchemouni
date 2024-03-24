@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Chemouni</h1>
-<h3 align="center">A passionate and student geek</h3>
+<h3 align="center">A French student passionate about tech</h3>
 
 <p align="left"> <a href="https://twitter.com/paulochmn" target="blank"><img src="https://img.shields.io/twitter/follow/paulochmn?logo=twitter&style=for-the-badge" alt="paulochmn" /></a> </p>
 
