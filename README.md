@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Chemouni</h1>
 <h3 align="center">A passionate and student geek</h3>
 
-<p align="left"> <a href="https://twitter.com/paulochm" target="blank"><img src="https://img.shields.io/twitter/follow/paulochm?logo=twitter&style=for-the-badge" alt="paulochm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paulo.chm" target="blank"><img src="https://img.shields.io/twitter/follow/paulo.chm?logo=twitter&style=for-the-badge" alt="paulo.chm" /></a> </p>
 
 - 🏫 I’m currently in **High school in France**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paulochm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulo.chm" height="30" width="40" /></a>
+<a href="https://twitter.com/paulo.chm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulo.chm" height="30" width="40" /></a>
 <a href="https://instagram.com/@paulo.chm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@paulo.chm" height="30" width="40" /></a>
 </p>
 
