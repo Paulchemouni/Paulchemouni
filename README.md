@@ -4,7 +4,7 @@
 - 🏫 I’m currently in **High school in France**
 - I participate in translating projects such as [ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (see my Crodin profile : [paulchemouni](https://crowdin.com/profile/paulchemouni))
 - 📫 **Reach me :**
-  - **E-mail : ** paulchemouni.perso@gmail.com
+  - **E-mail :** paulchemouni.perso@gmail.com
   - **Signal :** [@paulochm.44](https://signal.me/#eu/41oLoNLf5D0GR48qo3vKqwkprqH02jjzJJYKoMjU_P0loWy03nBCp6-bB3NWP8xn)
 
 <h3 align="left">Connect with me:</h3>
