@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Chemouni</h1>
 <h3 align="center">A French student passionate about science & tech</h3>
+
 - 🏫 I’m currently in **High school in France**
 - I participate in translating projects such as [ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (see my Crodin profile : [paulchemouni](https://crowdin.com/profile/paulchemouni))
 - 📫 Reach me : **paulchemouni.perso@gmail.com**
