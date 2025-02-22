@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paul Chemouni</h1>
 <h3 align="center">A French student passionate about science & tech</h3>
-
-<p align="left"> <a href="https://twitter.com/paulochmn" target="blank"><img src="https://img.shields.io/twitter/follow/paulochmn?logo=twitter&style=for-the-badge" alt="paulochmn" /></a> </p>
-
 - 🏫 I’m currently in **High school in France**
-- I participate in translating projects such as [ZimaOS](https://github.com/IceWhaleTech/ZimaOS) on Crowdin (see my Crodin profile : [paulchemouni](https://crowdin.com/profile/paulchemouni))
-- 📫 Reach me : **paulchemouni.edu@gmail.com**
+- I participate in translating projects such as [ZimaOS](https://github.com/IceWhaleTech/ZimaOS) (see my Crodin profile : [paulchemouni](https://crowdin.com/profile/paulchemouni))
+- 📫 Reach me : 
+  - e-mail : **paulchemouni.perso@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
