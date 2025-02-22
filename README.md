@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://twitter.com/paulochmn" target="blank"><img src="https://img.shields.io/twitter/follow/paulochmn?logo=twitter&style=for-the-badge" alt="paulochmn" /></a> </p>
 
 - 🏫 I’m currently in **High school in France**
-
-- 📫 How to reach me **paulchemouni.edu@gmail.com**
+- I participate in translating projects such as https://github.com/IceWhaleTech/ZimaOS on Crowdin (see my Crodin profile : https://crowdin.com/profile/paulchemouni)
+- 📫 Reach me : **paulchemouni.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
