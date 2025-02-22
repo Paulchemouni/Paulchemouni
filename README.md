@@ -6,6 +6,7 @@
 - 📫 **Reach me :**
   - **E-mail :** paulchemouni.perso@gmail.com
   - **Signal :** [@paulochm.44](https://signal.me/#eu/41oLoNLf5D0GR48qo3vKqwkprqH02jjzJJYKoMjU_P0loWy03nBCp6-bB3NWP8xn)
+  - **Instagram :** [@paulo.chm](https://www.instagram.com/paulo.chm/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
