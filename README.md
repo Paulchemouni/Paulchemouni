@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paul Chemouni</h1>
-<h3 align="center">A French student passionate about tech</h3>
+<h3 align="center">A French student passionate about science & tech</h3>
 
 <p align="left"> <a href="https://twitter.com/paulochmn" target="blank"><img src="https://img.shields.io/twitter/follow/paulochmn?logo=twitter&style=for-the-badge" alt="paulochmn" /></a> </p>
 
 - 🏫 I’m currently in **High school in France**
-- I participate in translating projects such as https://github.com/IceWhaleTech/ZimaOS on Crowdin (see my Crodin profile : https://crowdin.com/profile/paulchemouni)
+- I participate in translating projects such as [ZimaOS](https://github.com/IceWhaleTech/ZimaOS) on Crowdin (see my Crodin profile : [paulchemouni](https://crowdin.com/profile/paulchemouni))
 - 📫 Reach me : **paulchemouni.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paulochmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulochmn" height="30" width="40" /></a>
+
 <a href="https://instagram.com/@paulo.chm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@paulo.chm" height="30" width="40" /></a>
 </p>
 
