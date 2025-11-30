@@ -10,4 +10,4 @@
   - **Instagram :** [@paulo.chm](https://www.instagram.com/paulo.chm/)
 </br>
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?label=OS&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?label=OS&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Zen%20Browser-040404?label=Browser&logo=zenbrowser&logoColor=fff"/>
